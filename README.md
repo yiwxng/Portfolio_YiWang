@@ -23,7 +23,7 @@ For the work that cannot be put on this repo due to the above reason, I will wri
 
 
 
-## How is it organized ?
+# How is it organized ?
 Each research project is a folder, containing 
 1. a short description of the research project
 2. examples of my participation in the project, ex. abstracts, posters, images  **
@@ -34,4 +34,6 @@ Each research project is a folder, containing
 
 
 
+# Contact
+If you have any question about my experience, please feel free to reach out to me at yilinda.wang@mail.utoronto.ca
  
