@@ -32,6 +32,9 @@ Each research project is a folder, containing
 
 ** Due to adherence to good research conduct and intellectual property rights for PIs, some of my particpation may not be able to display on here.  
 
+## Related Repo 
+- Notes about Contextual Thompson Sampling Summer 2024 https://github.com/yiwxng/Summer_2024_Yi/blob/main/CTS/notes_cts.md
+
 
 
 # Contact
