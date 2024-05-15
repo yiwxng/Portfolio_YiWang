@@ -3,7 +3,7 @@ Hi I am Yi (she/her), an undergrad at the University of Toronto studying Compute
 
 I've had over more than 1 year of research experience at a Reinforcement Learning (RL)and HCI lab, where I participated in many research projects that created AI tools for health. 
 
-I was also fortunately awards a department scholarship during summer 2023 to work on a RL algorithm powered mental health text message system.
+I was also fortunately awards a department scholarship during summer 2023 to work on a RL algorithm powered mental health text message system. (As you probably got to this link from my resume)
 
 
 
