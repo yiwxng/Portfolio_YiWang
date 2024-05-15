@@ -1,7 +1,11 @@
 # Introduction
 Hi I am Yi (she/her), an undergrad at the University of Toronto studying Computer Science and Statistics.
 
-I've had over more than 1 year of research experience at a Reinforcement and HCI lab, where I participated in many research projects that investigated how to create meaningful and non-harmful interaction between humans and AI. 
+I've had over more than 1 year of research experience at a Reinforcement Learning (RL)and HCI lab, where I participated in many research projects that created AI tools for health. 
+
+I was also fortunately awards a department scholarship during summer 2023 to work on a RL algorithm powered mental health text message system.
+
+
 
 ## What I am curious about?
 I am mainly interested in Machine-learning, reinforcememnt learning, and creating meanginful AI tools for good (mental health and education).
