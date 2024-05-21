@@ -3,7 +3,7 @@ Hi I am Yi (she/her), an undergrad at the University of Toronto studying Compute
 
 I've had over more than 1 year of research experience at a Reinforcement Learning (RL)and HCI lab, where I participated in many research projects that created AI tools for health. 
 
-I was also fortunately awards a department scholarship during summer 2023 to work on a RL algorithm powered mental health text message system. (As you probably got to this link from my resume)
+I was also fortunately awarded a department scholarship during summer 2023 to work on a RL algorithm powered mental health text message system. (As you probably got to this link from my resume)
 
 
 
@@ -12,7 +12,8 @@ I am mainly interested in Machine-learning, reinforcememnt learning, and creatin
 
 
 # What this repo is about?
-This is a repo that contained all relevant material to my past and current research work* .
+This is a repo that contained all relevant material to my past and current research work*. 
+NOTE: this repo is still being updated as of Summer 2024
 
 *Due to adherence to academic copy right and work being under review, not all of the work that I was involved in will be posted on this public repo. 
 
