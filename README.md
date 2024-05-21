@@ -13,6 +13,7 @@ I am mainly interested in Machine-learning, reinforcememnt learning, and creatin
 
 # What this repo is about?
 This is a repo that contained all relevant material to my past and current research work*. 
+
 NOTE: this repo is still being updated as of Summer 2024
 
 *Due to adherence to academic copy right and work being under review, not all of the work that I was involved in will be posted on this public repo. 
